@@ -1,0 +1,9 @@
+Analysis:
+
+Total count in India?
+Confirmed count  statewise?
+CASES PER 10 MILLION
+Male and female count statewise
+Recoveries made statewise
+State with maximum  recoveries
+Time when the covid spread maximum or number of deaths were maximum
