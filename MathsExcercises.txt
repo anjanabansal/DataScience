@@ -1,0 +1,14 @@
+import math
+def fun1():
+    c =  50
+    h=30
+    
+    d=[100,150,180]
+    result=[]
+    for i in d:
+        print(i)
+        q = round(math.sqrt((2*c*i)/h))
+        result.append(q);
+     
+    print(result)
+fun1();
